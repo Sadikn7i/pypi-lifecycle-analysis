@@ -1,4 +1,4 @@
-# The Graveyard of Open Source — PyPI Package Abandonment Study
+y
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square) ![PyPI](https://img.shields.io/badge/Data-PyPI%20%7C%2096%2C810%20packages-orange?style=flat-square) ![Status](https://img.shields.io/badge/Status-Research%20Paper-purple?style=flat-square)
 
